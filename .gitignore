@@ -12,6 +12,7 @@ SqueakDebug.log
 
 # Monticello package cache
 /package-cache
+/pharo-local
 
 # Metacello-github cache
 /github-cache
